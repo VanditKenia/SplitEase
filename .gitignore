@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+.hypothesis/
+
+# Flutter / Dart
+.dart_tool/
+build/
+.flutter-plugins*
+*.iml
+.idea/
+
+# Secrets (examples with placeholders are committed)
+.env
+*.env
+backend/.env
+app/env.json
+!.env.example
+!env.example.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Personal notes
+private/
