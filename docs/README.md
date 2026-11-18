@@ -20,7 +20,7 @@ Read in this order. Each file has one job.
 | [SECURITY.md](SECURITY.md) | Auth, authorization, RLS, secrets, threat model |
 | [TESTING.md](TESTING.md) | Test strategy, required tests, worked examples, manual QA |
 | [ROADMAP.md](ROADMAP.md) | Step-by-step build plan with ready-to-paste Claude Code prompts |
-| [CLAUDE.md](../CLAUDE.md) | Rules for Claude Code in this repo (copy to the repo root) |
+| [CLAUDE.md](../CLAUDE.md) | Rules for Claude Code in this repo (lives at the repo root) |
 
 ## Tech stack (summary)
 
